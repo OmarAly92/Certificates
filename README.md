@@ -2,7 +2,7 @@
 Welcome to 'Certificates' repository! 🎓 Explore my professional achievements, highlighting expertise in software development, Flutter, and more. Each certificate marks a milestone in my journey towards excellence. Whether employer, collaborator, or curious, find insight into my credentials. Browse to witness passion, proficiency, and growth.
 
 
-## Flutter Syndicate Of Applicators Certificate Certificates:
+## Flutter Syndicate Of Applicators Certificate:
 
 <img src="https://github.com/OmarAly92/Certificates/assets/114154073/eb9fe1a7-f1d5-4930-bad7-5a1518824ecd" alt="Flutter Syndicate Of Applicators Certificate"  width="500" >
 
